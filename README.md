@@ -21,7 +21,7 @@ Thats it!
 Once you confirm that the files have been uploaded on your account in github. Add a README file. 
 This file should contain information regarding how to execute your project, parameters used etc. 
 
-Once completed, write a commit message and click on Ok button
+Once completed, write a commit message and click on "Commit new file" button
 Go back to IntelliJ Project and select VCS-> Update Project. This will "Pull" the changes (current README file into your project)
 IF you do not perform this state, you will be unable to perform and more commits, because git is not synced up. 
 
